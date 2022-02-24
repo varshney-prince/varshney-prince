@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Prince Varshney</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-
-- 📫 How to reach me **varshneyprince20000@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-varshney-948940182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-varshney-948940182/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varshneyprince20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varshneyprince20" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/_191550064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="_191550064" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Prince Varshney, Android Developer :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshney-prince&show_icons=true&locale=en&layout=compact" alt="varshney-prince" /></p>
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshney-prince&show_icons=true&locale=en" alt="varshney-prince" /></p>
+- :man_technologist:  Currently pursuing my Bachelors from GLA University in Computer and Science Engineering. 
+- :computer: I'm currently working on Android Developement
+- :hourglass_flowing_sand:  Exploring Project Management
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-varshneyprince-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-varshney-948940182/)](https://www.linkedin.com/in/prince-varshney-948940182/) [![Twitter Badge](https://img.shields.io/badge/-@varshneyprince-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrinceV47326028)](https://twitter.com/PrinceV47326028)  [![Instagram Badge](https://img.shields.io/badge/-@varshneyprince3400-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/varshneyprince3400/)](https://www.instagram.com/varshneyprince3400/)
